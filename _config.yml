@@ -2,7 +2,8 @@ theme: jekyll-theme-slate
 
 title: About me 
 
-description: Please download a pdf of my [CV](cv.pdf). 
+description: Please download a pdf of my <a href="cv.pdf" target="_blank">cv</a>
+
 
 github:
   is_project_page: false

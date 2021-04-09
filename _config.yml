@@ -3,6 +3,6 @@ theme: jekyll-theme-slate
 github:
   is_project_page: false
 
-title: About me
+title: About me 1
 
-description: Please download a pdf of my [CV](cf.pdf). 
+description: Please download a pdf of my [CV](cv.pdf). 

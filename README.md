@@ -1,4 +1,4 @@
 My home page is [here](https://abel1802.github.io/about/)
 
 
-[cv](/cv.pdf)
+<a href="cv.pdf" target="_blank">cv</a>

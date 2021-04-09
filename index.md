@@ -19,7 +19,7 @@
 
 
 ### 研究经历
-* 智能语音习得实验室, 信息科学学院, 北京语言大学
+智能语音习得实验室, 信息科学学院, 北京语言大学
 
 ###### 论文发表
 *	2020 Oct  Dan Du, Xianjin Zhu, **Zhu Li**, Jinsong Zhang. &nbsp Perception and Production of Mandarin Initial Stops by Native Urdu Speakers. Proceedings of Interspeech, Shanghai, China, 2020. 

@@ -45,5 +45,4 @@
 ### 语言
 英语(CET-4)，英语(CET-6)
 
-Please download a pdf of my <a href="cv.pdf" target="_blank">cv</a>
 
